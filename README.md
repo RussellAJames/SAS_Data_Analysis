@@ -1,3 +1,3 @@
-# python_scripts
+# SAS Data Analysis
 
-Python data mining/analysis scripts that are used in projects.
+SAS Data analysis
